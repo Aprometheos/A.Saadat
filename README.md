@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Aprometheos
-- 👀 I’m interested in python and linux and i'm just learning.
+- 👋 Hi, I’m Amir
+- 👀 I’m interested in python,Machine Learning,Speech processing,Image processing and linux and i'm just learning.
+- 💻 I’m currently studying IT_Multimedia to get my master's degree.
 - 🌱 I’m currently learning everything about everything...
 - 💞️ I’m looking to collaborate on programming
 - ANY GUIDANCE IS APPRICIATED...
